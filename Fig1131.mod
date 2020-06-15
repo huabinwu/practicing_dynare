@@ -76,4 +76,4 @@ subplot(2,3,6)
 plot([rq0*ones(100,1) rq' ])
 title('r/q')
 
-print -depsc fig1131.ps
+%print -depsc fig1131.ps
